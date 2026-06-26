@@ -5,4 +5,15 @@
     border: 3px solid black;
 }
 
-.desc-card1
+.desc-content1, .steps-content1, .ingr-content1 {
+    border: 3px solid black;
+    padding-left: 20px;
+    background: rgb(143, 220, 248);
+}
+
+.disclaimer-pizza {
+    border: 3px solid black;
+    margin-top: 10px;
+    width: 1000px;
+    text-align: center;
+}
